@@ -5,13 +5,13 @@ entries:
   - title: My Information
     entries:
       - title: 도광양회(韜光養晦) 빛을 감추고 어둠 속에서 힘을 기른다
-      - title: Used Jekyll Style.. No style, Please.
       - title: My GitHub repo
         url: https://github.com/grooviiee/grooviiee.github.io
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: TongTong's Blog
     entries:
+      - title: 다다익잠이라고 아시려나..?
       - title: Love you TongTong
         url: https://blog.naver.com/selenaaa
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
