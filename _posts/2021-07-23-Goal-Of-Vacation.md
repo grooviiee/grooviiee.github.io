@@ -10,4 +10,4 @@ category: example2
 
 
 p.s) Below is image add test.
-<img src="https://github.com/grooviiee/grooviiee.github.io/blob/main/_screenshots/lighthouse-report.png" />
+<img src="/_screenshots/lighthouse-report.png" title="ImgTest"/>
