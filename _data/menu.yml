@@ -6,13 +6,7 @@ entries:
     entries:
       - title: 도광양회(韜光養晦) 빛을 감추고 어둠 속에서 힘을 기른다
       - title: Simple is the best.
-      - title: "Visit <a href='https://github.com/grooviiee/grooviiee.github.io'>My Repo</a>"
-
-  - title: TongTongE's Blog
-    entries:
-      - title: 다다익잠이라고 아시려나..?
-      - title: Love you TongTong
-      - title: "Visit <a href='https://blog.naver.com/selenaaa'>Her Blog</a>"
+      - title: "Visit <a href='https://github.com/grooviiee/hello'> Visit My Workspace</a>"
 
   - title: all posts
     post_list:
@@ -35,7 +29,7 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
-  
+ 
   - title: another list
     entries:
       - title: with subitems
@@ -43,6 +37,8 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-  - title: PRO TIP
+
+  - title: P.S) TongTongE's Blog
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: Love you TongTong (다다익잠이라고 아시려나..?)
+      - title: "Visit <a href='https://blog.naver.com/selenaaa'> Visit Her Blog</a>"
