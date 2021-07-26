@@ -16,4 +16,5 @@ p.s) Below is image add test.
 
 
 
-![Image Alt 텍스트](https://github.com/grooviiee/grooviiee.github.io/blob/main/_screenshots/lighthouse-report.png)
+- ![Image Alt 텍스트](https://github.com/grooviiee/grooviiee.github.io/blob/main/_screenshots/lighthouse-report.png)
+- ![Image Alt 텍스트]({{"/_screenshots/lighthouse-report.png"| relative_url}})
