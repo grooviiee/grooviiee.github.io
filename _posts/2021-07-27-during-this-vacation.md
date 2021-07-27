@@ -22,7 +22,7 @@ SSR : Rendering from server (HTML + CSS)
 
 CSR : Service JS Loading / Run.
 
-[reference](https://velog.io/@qkrdudgh052/SSR-CSR-%EC%B0%A8%EC%9D%B4)
+[reference(https://velog.io/@qkrdudgh052)](https://velog.io/@qkrdudgh052/SSR-CSR-%EC%B0%A8%EC%9D%B4)
 
 ### 3. 부하테스트를 하는 Framework -> nGrinder.. Web 서비스 제작 후에 확인해볼 것.
 
