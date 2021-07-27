@@ -14,7 +14,7 @@ Below url describes about tech-trees.
 
 ### 1. Use Redux at state management.
 
-(Is it possible to combine redux with Node.js??)
+(Is it possible to combine redux with Node.js??)  <-- Tomorrow topic.
 
 ### 2. SSR(Server Side Rendering) vs. CSR(Client Side Rendering)
 
