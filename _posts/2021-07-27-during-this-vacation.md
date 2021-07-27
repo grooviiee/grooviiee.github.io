@@ -11,13 +11,12 @@ Below url describes about tech-trees.
 [kamranahmedse's github](https://github.com/kamranahmedse/developer-roadmap)
 
 ## WILT(What I've Learned Today)
-- [Table of contents](#table-of-contents)
 
-Use Redux at state management.
+### 1. Use Redux at state management.
 (Is it possible to combine redux with Node.js??)
 
-SSR(Server Side Rendering)
+### 2. SSR(Server Side Rendering)
 
-부하테스트를 하는 Framework -> nGrinder.. Web 서비스 제작 후에 확인해볼 것.
+### 3. 부하테스트를 하는 Framework -> nGrinder.. Web 서비스 제작 후에 확인해볼 것.
 Framework to get traffic test -> nGrinder... Use after creating mock up.
 
