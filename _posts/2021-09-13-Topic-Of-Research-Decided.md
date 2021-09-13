@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WILT"
-category: paper_work
+category: network
 ---
 
 ## WIDT(What I've Done Today)
