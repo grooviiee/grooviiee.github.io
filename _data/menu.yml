@@ -15,9 +15,9 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
       
-  - title: posts by Backend(Node.js)
+  - title: posts about Network
     post_list:
-      category: Nodejs
+      category: network
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
@@ -29,7 +29,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: example2-archive.html
 
- 
+   - title: posts by Frontend(React)
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+
   - title: another list
     entries:
       - title: with subitems
